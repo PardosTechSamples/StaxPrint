@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+<title>StaxPrint</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F7FAFC"/><stop offset="1" stop-color="#D9E8F2"/></linearGradient></defs>
+<path d="M924.00 512.00L924.00 739.00C924.00 841.17 841.17 924.00 739.00 924.00L285.00 924.00C182.83 924.00 100.00 841.17 100.00 739.00L100.00 285.00C100.00 182.83 182.83 100.00 285.00 100.00L739.00 100.00C841.17 100.00 924.00 182.83 924.00 285.00Z" fill="url(#bg)"/>
+<path d="M184.24 544.52L520.52 494.43L828.00 619.48L828.00 628.30L491.72 678.39L184.24 553.34Z" fill="#1B3D55" stroke="#0E2233" stroke-width="3.92" stroke-linejoin="round"/>
+<path d="M184.24 544.52L520.52 494.43L828.00 619.48L491.72 669.57Z" fill="#2C5B7B" stroke="#0E2233" stroke-width="3.92" stroke-linejoin="round"/>
+<path d="M231.11 548.72L513.89 506.60L726.54 593.08L443.75 635.20Z" fill="#FFFFFF" stroke="#6BA83D" stroke-width="4.90" stroke-linejoin="round"/>
+<path d="M176.32 502.16L506.96 422.95L824.16 520.72L824.16 529.54L493.52 608.75L176.32 510.98Z" fill="#1B3D55" stroke="#0E2233" stroke-width="3.92" stroke-linejoin="round"/>
+<path d="M176.32 502.16L506.96 422.95L824.16 520.72L493.52 599.93Z" fill="#2C5B7B" stroke="#0E2233" stroke-width="3.92" stroke-linejoin="round"/>
+<path d="M223.37 502.25L501.41 435.65L720.78 503.26L442.75 569.87Z" fill="#FFFFFF" stroke="#6BA83D" stroke-width="4.90" stroke-linejoin="round"/>
+<path d="M188.60 414.42L521.80 346.80L835.40 455.58L835.40 464.40L502.20 532.02L188.60 423.24Z" fill="#1B3D55" stroke="#0E2233" stroke-width="3.92" stroke-linejoin="round"/>
+<path d="M188.60 414.42L521.80 346.80L835.40 455.58L502.20 523.20Z" fill="#2C5B7B" stroke="#0E2233" stroke-width="3.92" stroke-linejoin="round"/>
+<path d="M235.62 416.16L515.81 359.30L732.69 434.53L452.50 491.39Z" fill="#FFFFFF" stroke="#6BA83D" stroke-width="4.90" stroke-linejoin="round"/>
+</svg>
