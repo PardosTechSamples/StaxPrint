@@ -1,9 +1,7 @@
 MIT License
 
 Copyright (c) 2026 StaxPrint contributors
-
-The SP-2 protocol implementation is based on jpwsutton/instax_api,
-Copyright (c) 2016 James Sutton, also released under the MIT License.
+Copyright (c) 2016 James Sutton (SP-2 protocol, from jpwsutton/instax_api)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
